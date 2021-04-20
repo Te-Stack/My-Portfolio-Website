@@ -1,21 +1,23 @@
+import React from 'react'
 import "../index.css"
 import "./css/navbar.css"
-import "../script"
+import {Link} from "react-router-dom"
+
 
 function Navbar() {
     return (
         <div>
-            <header className="hero">
+            {/* <header className="hero">
                 <nav className="navbar">
                     <h1 className="logo">
-                    <a href="#">QUINCY OGHENETEJIRI</a>
+                        <Link to="/">QUINCY OGHENETEJIRI</Link>
                     </h1>
                     <div>
                         <ul className="nav-menu">
-                            <li className="nav-item"><a href="" class="nav-link">Home</a></li>
-                            <li className="nav-item"><a href="" class="nav-link">About</a></li>
-                            <li className="nav-item"><a href="" class="nav-link">Contact</a></li>
-                            <li className="nav-item"><a href="" class="nav-link">Services</a></li>
+                            <li className="nav-item"><Link to="/" className="nav-link">Home</Link></li>
+                            <li className="nav-item"><Link to="" className="nav-link">About</Link></li>
+                            <li className="nav-item"><Link to="" className="nav-link">Contact</Link></li>
+                            <li className="nav-item"><Link to="" className="nav-link">Services</Link></li>
                         </ul>
                         <div className="hamburger">
                             <span className="bar"></span>
@@ -24,8 +26,7 @@ function Navbar() {
                         </div>
                     </div>
                 </nav>
-        </header>
-            
+        </header> */}
         </div>
     )
 }
