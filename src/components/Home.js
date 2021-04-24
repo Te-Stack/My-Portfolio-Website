@@ -1,12 +1,24 @@
 import React, { Component } from 'react'
 import "../index.css"
+import About from './About'
+import Contact from './Contact'
 import "./css/Home.css"
+import Project from './Project'
 
 class Home extends Component {
     render() {
         return (
-            <div>
+            <div >
+                <div className="Home">
+                    Home
+
+                </div>
                 
+
+
+                <About/>
+                <Project/>
+                <Contact/>
             </div>
         )
     }
