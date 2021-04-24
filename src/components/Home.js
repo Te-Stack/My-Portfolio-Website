@@ -1,13 +1,15 @@
+import React, { Component } from 'react'
 import "../index.css"
 
-function Home() {
-    return (
-        <div>
-           <h1>Make it happen</h1> 
-           <p>lorembn gfgrd</p>
-            
-        </div>
-    )
+class Home extends Component {
+    render() {
+        return (
+            <div>
+                
+            </div>
+        )
+    }
 }
+
 
 export default Home
