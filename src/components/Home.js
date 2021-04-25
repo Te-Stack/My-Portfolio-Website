@@ -5,10 +5,13 @@ import Contact from './Contact'
 import "./css/Home.css"
 import Project from './Project'
 
+
+
+
 class Home extends Component {
     render() {
         return (
-            <div >
+            <div>
                 <div className="Home">
                     Home
 
