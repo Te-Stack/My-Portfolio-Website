@@ -13,7 +13,7 @@ class Home extends Component {
         return (
             <div>
                 <div className="Home">
-                    Home
+                    
 
                 </div>
                 
