@@ -12,8 +12,8 @@ class About extends Component {
                             <button>Download CV</button>
                         </div>
                         <div className="col-sm-6 col-sm-6 col-xl-6">
-                            <h2>About me & What I do </h2>
-                            <p>i'm Ukumakube Quincy Oghenetejiriu, a full stack developer and a UI/UX Designer wiyh over one year experience. I design and develop web applications and microservices using figma for design and mostly Javascript and Python for development . My most notable stacks include :
+                            <h2 className="about-border">About me & What I do </h2>
+                            <p>i'm Ukumakube Quincy Oghenetejiri, a full stack developer and a UI/UX Designer wiyh over one year experience. I design and develop web applications and microservices using figma for design and mostly Javascript and Python for development . My most notable stacks include :
                                 
                             </p>
 

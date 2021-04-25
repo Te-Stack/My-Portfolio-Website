@@ -12,7 +12,7 @@ class Home extends Component {
     render() {
         return (
             <div>
-                <div className="Home m-5">
+                <div className="Home m-2">
                     <h4><strong>Design. Build. Improve</strong></h4>
                     <h1>I create beautiful website your users will love</h1>
                     <button className="btn">Make it happen</button>

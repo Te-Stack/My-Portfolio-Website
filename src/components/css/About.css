@@ -7,14 +7,32 @@
     height: 85vh;
 }
 
-
+.about-border{
+    border-bottom: 1rem solid #1282A2;
+}
 
 @media screen and (max-width:1024px){
+    .About{
+        height: 75vh;
+    }
+    
+    .img{
+        width: 45vw;
+        height: 60vh;
+    }
     
 }
 
 
 
 @media screen and (max-width:480px){
+    .About{
+        height: 150vh;
+    }
+    
+    .img{
+        width: 90vw;
+        height: 75vh;
+    }
 
 }
