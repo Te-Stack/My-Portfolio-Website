@@ -4,7 +4,7 @@
 }
  
 .img{
-    width: 45vw;
+    width: 35vw;
     height: 85vh;
 }
 
@@ -14,8 +14,8 @@
 
 .desktop{
     display: block;
-    width: 45vw;
-    height: 75vh;
+    width: 35vw;
+    height:50vh;
 
 }
 
@@ -35,7 +35,7 @@
     .desktop{
         display: block;
         width: 45vw;
-        height: 50vh;
+        height: 30vh;
     
     }
     
@@ -52,7 +52,7 @@
 
 @media screen and (max-width:480px){
     .About{
-        height: 150vh;
+        height: 200vh;
     }
     
     .img{
