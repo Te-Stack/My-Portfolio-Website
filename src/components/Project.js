@@ -5,8 +5,7 @@ class Project extends Component {
     render() {
         return (
             <div className="Projects">
-                <div className="container">
-                    <div className="row1">
+                <div className="container1">
                         <div className=" cards">
                             <h5>Balance Sheet App</h5>
                         </div>
@@ -16,18 +15,16 @@ class Project extends Component {
                         <div className=" cards">
                             <h5>Balance Sheet App</h5>
                         </div>
+                </div>
+                <div className="container2 mt-2">
+                    <div className=" cards">
+                        <h5>Balance Sheet App</h5>
                     </div>
-
-                    <div className="row2 mt-5">
-                        <div className=" cards">
-                            <h5>Balance Sheet App</h5>
-                        </div>
-                        <div className=" cards">
-                            <h5>Balance Sheet App</h5>
-                        </div>
-                        <div className="cards">
-                            <h5>Balance Sheet App</h5>
-                        </div>
+                    <div className=" cards">
+                        <h5>Balance Sheet App</h5>
+                    </div>
+                    <div className="cards">
+                        <h5>Balance Sheet App</h5>
                     </div>
                 </div>
                 

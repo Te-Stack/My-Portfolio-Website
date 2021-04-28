@@ -68,15 +68,18 @@
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
     }
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
     .row1{
         display: flex;
         flex-direction: column;
-        align-content: space-between;
+        align-self: space-evenly;
     }
     .row2{
         display: flex;
         flex-direction: column;
-        align-content: space-between;
     }
     
 }
