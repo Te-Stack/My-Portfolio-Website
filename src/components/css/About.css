@@ -12,13 +12,15 @@
     border-bottom: 1rem solid #1282A2;
 }
 
-.Skill{
-    width: 8vw;
-    height: 4.5vh;
-    background-color: #C4C4C4;
-    font-size: 1rem;
-    border-radius: 0.5rem;
-    font-weight: bolder;
+.desktop{
+    display: block;
+    width: 45vw;
+    height: 75vh;
+
+}
+
+.mobile{
+    display: none;
 }
 
 @media screen and (max-width:1024px){
@@ -30,6 +32,19 @@
         width: 45vw;
         height: 60vh;
     }
+    .desktop{
+        display: block;
+        width: 45vw;
+        height: 50vh;
+    
+    }
+    
+    .mobile{
+        display: none;
+    }
+        
+        
+
     
 }
 
@@ -43,6 +58,16 @@
     .img{
         width: 90vw;
         height: 75vh;
+    }
+    .desktop{
+        display: none;
+    
+    }
+    
+    .mobile{
+        display: block;
+        width: 90vw;
+        height: 70vh;
     }
 
 }
