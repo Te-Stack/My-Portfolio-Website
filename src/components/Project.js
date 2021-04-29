@@ -10,21 +10,21 @@ class Project extends Component {
                             <h5>Balance Sheet App</h5>
                         </div>
                         <div className=" cards">
-                            <h5>Balance Sheet App</h5>
+                            <h5>Smoothie-E-Commerce Website</h5>
                         </div>
                         <div className=" cards">
-                            <h5>Balance Sheet App</h5>
+                            <h5>Overwood Website Redesign</h5>
                         </div>
                 </div>
                 <div className="container2 mt-2">
                     <div className=" cards">
-                        <h5>Balance Sheet App</h5>
+                        <h5>Remita Sign-up page</h5>
                     </div>
                     <div className=" cards">
-                        <h5>Balance Sheet App</h5>
+                        <h5>A Bidding App</h5>
                     </div>
                     <div className="cards">
-                        <h5>Balance Sheet App</h5>
+                        <h5>Sign-Up API</h5>
                     </div>
                 </div>
                 
