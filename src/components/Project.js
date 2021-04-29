@@ -16,7 +16,7 @@ class Project extends Component {
                             <h5>Overwood Website Redesign</h5>
                         </div>
                 </div>
-                <div className="container2 mt-2">
+                <div className="container2">
                     <div className=" cards">
                         <h5>Remita Sign-up page</h5>
                     </div>
