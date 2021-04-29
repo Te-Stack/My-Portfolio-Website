@@ -4,7 +4,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="footer">
-                <h1 className="navbar-logo">Quincy Oghenetejiri</h1> 
+                <h1 className="logo">Quincy Oghenetejiri</h1> 
             </div>
         )
     }
