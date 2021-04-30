@@ -1,11 +1,35 @@
 .Projects{
-    height: 130vh;
+    height: 135vh;
     color: #312F2F;
+}
+
+a{
+    text-decoration: none;
+    text-emphasis: none;
+    color: #1282A2;
+}
+
+.project-border{
+    width: 11vw;
+    border-bottom:0.8rem solid #1282A2;
+    margin-left: 5rem;
 }
 
 .cards{
     width: 25vw;
     height: 50vh;
+    background-color:#FEFCFB;
+    border: 1px solid #1282A2;
+    box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
+    text-align: center;
+    border-radius: 1rem;
+    padding: 1rem;
+    margin-top: 1rem;
+}
+.cards:hover{
+    width: 25vw;
+    height: 50vh;
+    zoom: 105%;
     background-color:#FEFCFB;
     border: 1px solid #1282A2;
     box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
@@ -60,13 +84,30 @@ h5{
 
 @media screen and (max-width:1024px){
     .Projects{
-        height: 100vh;
+        height: 80vh;
         color: #312F2F;
+    }
+    .project-border{
+        width: 15vw;
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 4rem;
     }
     
     .cards{
         width: 27vw;
         height: 25vh;
+        background-color:#FEFCFB;
+        border: 1px solid #1282A2;
+        box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
+        text-align: center;
+        border-radius: 0.8rem;
+        padding: 1rem;
+        margin-top: 0.6rem;
+    }
+    .cards:hover{
+        width: 27vw;
+        height: 25vh;
+        zoom: 105%;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
         box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
@@ -90,12 +131,30 @@ h5{
 
 @media screen and (max-width:480px){
     .Projects{
-        height: 250vh;
+        height: 270vh;
         color: #312F2F;
+    }
+    .project-border{
+        width: 35vw;
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 1rem;
     }
     .cards{
         width: 90vw;
+        margin-left: 1rem;
         height: 35vh;
+        background-color:#FEFCFB;
+        border: 1px solid #1282A2;
+        box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
+        text-align: center;
+        border-radius: 0.8rem;
+        padding: 1rem;
+        margin-top: 2rem;
+    }
+    .cards:hover{
+        width: 90vw;
+        height: 35vh;
+        zoom: 105%;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
         box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;

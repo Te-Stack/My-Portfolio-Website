@@ -5,6 +5,7 @@ class Project extends Component {
     render() {
         return (
             <div className="Projects">
+                <h2 className="project-border">Projects</h2>
                 <div className="container1 ">
                         <div className="cards">
                             <h5>Balance Sheet App</h5>
@@ -14,10 +15,10 @@ class Project extends Component {
                             </p>
                             <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://balance-sheet-app.herokuapp.com/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Balance-Sheet-App" target="_blank"rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                             </div>
                         </div>
@@ -29,10 +30,10 @@ class Project extends Component {
                             </p>
                             <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://smoothie-e-commerce.herokuapp.com/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Smoothie-E-Commerce-Website-" target="_blank" rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                             </div>
                         </div>
@@ -44,10 +45,10 @@ class Project extends Component {
                             </p>
                             <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://overwood-redesign.netlify.app/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Overwood-Redesign-Challenge" target="_blank" rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                             </div>
                         </div>
@@ -61,10 +62,10 @@ class Project extends Component {
                         </p>
                         <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://remita-validate.netlify.app/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Remita-Form-Validation" target="_blank" rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                         </div>
                     </div>
@@ -76,10 +77,10 @@ class Project extends Component {
                         </p>
                         <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://bidding-app.netlify.app/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Bidding-App" target="_blank" rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                         </div>
                     </div>
@@ -91,16 +92,16 @@ class Project extends Component {
                         </p>
                         <div className="Icon">
                                 <div>
-                                <p>Live<i className="fas fa-eye"></i></p> 
+                                <a href="https://sign-up-app123544.herokuapp.com/" target="_blank" rel="noreferrer">Live<i className="fas fa-eye"></i></a> 
                                 </div>
                                 <div>
-                                <p>Code<i className="fas fa-code-branch"></i></p> 
+                                <a href="https://github.com/Te-Stack/Sign-Up-API" target="_blank" rel="noreferrer">Code<i className="fas fa-code-branch"></i></a> 
                                 </div>
                         </div>
                     </div>
                 </div>
                 <div className="mid mt-5">
-                <button className="btn">See More Projects </button>
+                    <a href="https://github.com/Te-Stack?tab=repositories" target="_blank" rel="noreferrer"><button className="btn">See More Projects </button></a>
                 </div>
             </div>
         )
