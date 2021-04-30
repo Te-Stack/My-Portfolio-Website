@@ -6,13 +6,13 @@ class Contact extends Component {
         return (
             <div className="Contact">
                 <h2 className="contact-border">Contact Me</h2>
-                <p>Thinking of ways of converting your ideas into reality through designs and development. Reach out to me</p>
+                <p className="Think">Thinking of ways of converting your ideas into reality through designs and development. Reach out to me</p>
                 <div className ="container">
                     <div className="row">
                     <div className="col-sm-6 col-sm-6 col-xl-6">
-                        <p><a>ukumakubequincy@gmail.com</a></p>
-                        <p><a>+2349027499683</a></p>
-                        <p><a>Benin,Nigeria</a></p>
+                        <p><a><i class="fas fa-envelope"></i>ukumakubequincy@gmail.com</a></p>
+                        <p><a><i class="fas fa-phone-alt"></i>+2349027499683</a></p>
+                        <p><a><i class="fas fa-map-marker-alt"></i>Benin,Nigeria</a></p>
                     </div>
                     <div className="col-sm-6 col-sm-6 col-xl-6">
                         <h6 className="send-border">Send me a message</h6>
