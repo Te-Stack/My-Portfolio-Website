@@ -1,5 +1,5 @@
 .Contact{
-    height: 100vh;
+    height: 90vh;
 }
 
 .contact-border{
@@ -33,6 +33,9 @@ textarea{
 }
 .reach{
     font-size: 1.3rem;
+}
+.alt{
+    color: #1282A2;
 }
 @media screen and (max-width:1024px){
     
