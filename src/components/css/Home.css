@@ -16,8 +16,6 @@
 
 .btn:hover{
     opacity: 0.9;
-    width: 22vw;
-    height: 11vh;
 }
 
 @media screen and (max-width:1024px){

@@ -2,6 +2,36 @@
     height: 100vh;
 }
 
+.contact-border{
+    width: 15vw;
+    border-bottom:0.8rem solid #1282A2;
+    margin-left: 5rem;
+}
+
+.send-border{
+    width: 18vw;
+    border-bottom: 0.7rem solid #1282A2;
+}
+
+input{
+    background-color: #c4c4c4;
+    border: none;
+    width: 15vw;
+    height: 10vh;
+}
+
+textarea{
+    background-color: #c4c4c4;
+    border: none;
+    width: 25vw;
+    height: 11vh;
+
+}
+@media screen and (max-width:1024px){
+    
+}
+
+
 @media screen and (max-width:480px){
     
 }
