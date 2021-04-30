@@ -31,6 +31,9 @@ textarea{
     font-size: 1.5rem;
     margin-left: 5rem;
 }
+.reach{
+    font-size: 1.3rem;
+}
 @media screen and (max-width:1024px){
     
 }
