@@ -99,7 +99,9 @@ class Project extends Component {
                         </div>
                     </div>
                 </div>
+                <div className="mid mt-5">
                 <button className="btn">See More Projects </button>
+                </div>
             </div>
         )
     }
