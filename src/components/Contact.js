@@ -10,9 +10,9 @@ class Contact extends Component {
                 <div className ="container">
                     <div className="row">
                     <div className="col-sm-6 col-sm-6 col-xl-6">
-                        <p className="reach"><a><i className="fas fa-envelope alt"></i>ukumakubequincy@gmail.com</a></p>
-                        <p className="reach"><a><i className="fas fa-phone-alt alt"></i>+2349027499683</a></p>
-                        <p className="reach"><a><i className="fas fa-map-marker-alt alt"></i>Benin,Nigeria</a></p>
+                        <p className="reach"><a href="https://mailto:ukumakubequincy@gmail.com"><i className="fas fa-envelope alt"></i>ukumakubequincy@gmail.com</a></p>
+                        <p className="reach"><a href="https://google.com"><i className="fas fa-phone-alt alt"></i>+2349027499683</a></p>
+                        <p className="reach"><a href="https://google.com"><i className="fas fa-map-marker-alt alt"></i>Benin,Nigeria</a></p>
                     </div>
                     <div className="col-sm-6 col-sm-6 col-xl-6">
                         <h6 className="send-border">Send me a message</h6>
