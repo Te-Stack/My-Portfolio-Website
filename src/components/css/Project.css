@@ -84,7 +84,7 @@ h5{
 
 @media screen and (max-width:1024px){
     .Projects{
-        height: 80vh;
+        height: 70vh;
         color: #312F2F;
     }
     .project-border{

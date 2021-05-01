@@ -38,11 +38,87 @@ textarea{
     color: #1282A2;
 }
 @media screen and (max-width:1024px){
+    .Contact{
+        height: 50vh;
+    }
+    
+    .contact-border{
+        width: 18vw;
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 3rem;
+    }
+    
+    .send-border{
+        width: 18vw;
+        border-bottom: 0.7rem solid #1282A2;
+    }
+    
+    input{
+        background-color: #c4c4c4;
+        border: none;
+        width: 18vw;
+        height: 5vh;
+    }
+    
+    textarea{
+        background-color: #c4c4c4;
+        border: none;
+        width: 28vw;
+        height: 6vh;
+    }
+    
+    .Think{
+        font-size: 1.5rem;
+        margin-left: 3rem;
+    }
+    .reach{
+        font-size: 1.3rem;
+    }
+    .alt{
+        color: #1282A2;
+    }
     
 }
 
 
 @media screen and (max-width:480px){
+    .Contact{
+        height: 100vh;
+    }
+    
+    .contact-border{
+        width: 50vw;
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 1rem;
+    }
+    
+    .send-border{
+        width: 60vw;
+        border-bottom: 0.7rem solid #1282A2;
+    }
+    
+    input{
+        background-color: #c4c4c4;
+        border: none;
+        width: 70vw;
+        height: 8vh;
+        margin-top: 0.8rem;
+    }
+    
+    textarea{
+        background-color: #c4c4c4;
+        border: none;
+        width: 90vw;
+        height: 9vh;
+    }
+    
+    .Think{
+        font-size: 1.5rem;
+        margin-left: 1rem;
+    }
+    .reach{
+        font-size: 1.3rem;
+    }
     
 }
 
