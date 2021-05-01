@@ -1,5 +1,6 @@
 .Home{
     height: 70vh;
+    background-color: #FEFCFB;
     display: flex;
     flex-direction: column;
     align-items: center;

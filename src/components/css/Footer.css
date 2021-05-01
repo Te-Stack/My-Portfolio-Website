@@ -1,0 +1,16 @@
+footer .pane{
+    background-color: #1282A2;
+    color: #FEFCFB;
+    height: 40vh;
+}
+
+.fab{
+    font-size: 1.3rem;
+}
+
+.footer-logo{
+    justify-self: start;
+    cursor: pointer;
+    font-size: 1.5rem;
+    font-family: 'Pacifico', cursive;
+}

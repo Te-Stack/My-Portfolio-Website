@@ -3,6 +3,7 @@ import "../index.css"
 import About from './About'
 import Contact from './Contact'
 import "./css/Home.css"
+import Footer from './Footer'
 import Project from './Project'
 
 
@@ -23,6 +24,7 @@ class Home extends Component {
                 <About/>
                 <Project/>
                 <Contact/>
+                <Footer/>
             </div>
         )
     }
