@@ -1,2 +1,2 @@
 # My Portfolio Website
-Ukumakube Quincy Oghenetejiri
+Ukumakube Quincy Oghenetejiri(Full Stack Developer)
