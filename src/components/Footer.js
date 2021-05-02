@@ -15,10 +15,9 @@ export default class Footer extends Component {
                             <a></a>
                             <a></a>
                             <a></a>
-                            
                         </div>
                         <div>
-                            
+                            <p> copy; Copyright 2021, All right reserved</p>
                         </div>
 
                     </div>
