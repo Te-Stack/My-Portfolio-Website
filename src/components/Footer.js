@@ -11,10 +11,10 @@ export default class Footer extends Component {
                         <h1 className="footer-logo">Quincy Oghenetejiri</h1>
                         </div>
                         <div>
-                            <a href="#"></a>
-                            <a></a>
-                            <a></a>
-                            <a></a>
+                            <a href="#"><i className="fab fa-whatsapp"></i></a>
+                            <a><i className="fab fa-linkedin"></i></a>
+                            <a><i className="fab fa-github"></i></a>
+                            <a><i className="fab fa-twitter"></i></a>
                         </div>
                         <div>
                             <p> copy; Copyright 2021, All right reserved</p>
