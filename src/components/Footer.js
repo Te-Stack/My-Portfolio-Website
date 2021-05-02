@@ -9,9 +9,12 @@ export default class Footer extends Component {
                     <div className="pane">
                         <div>
                         <h1 className="footer-logo">Quincy Oghenetejiri</h1>
-                            
                         </div>
                         <div>
+                            <a href="#"></a>
+                            <a></a>
+                            <a></a>
+                            <a></a>
                             
                         </div>
                         <div>
