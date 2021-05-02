@@ -17,7 +17,7 @@ export default class Footer extends Component {
                             <a><i className="fab fa-twitter"></i></a>
                         </div>
                         <div>
-                            <p> copy; Copyright 2021, All right reserved</p>
+                            <p> &copy; Copyright 2021, All right reserved</p>
                         </div>
 
                     </div>
