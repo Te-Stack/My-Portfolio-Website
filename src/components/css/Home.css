@@ -15,8 +15,19 @@
     font-size: 1.2rem;
 }
 
+.Home a {
+    text-decoration: none;
+    color: #FEFCFB;
+}
+
+.Home a:hover{
+    color:#312F2F;
+    
+}
+
 .btn:hover{
     opacity: 0.9;
+    color:#312F2F;
 }
 
 @media screen and (max-width:1024px){

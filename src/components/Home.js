@@ -16,7 +16,7 @@ class Home extends Component {
                 <div className="Home m-2">
                     <h4><strong>Design. Build. Improve</strong></h4>
                     <h1>I create beautiful website your users will love</h1>
-                    <button className="btn">Make it happen</button>
+                    <button className="btn"><a href="https://wa.me/+2349027499683">Make it happen</a></button>
                 </div>
                 
 
