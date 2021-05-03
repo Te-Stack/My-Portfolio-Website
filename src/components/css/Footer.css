@@ -28,7 +28,7 @@ footer a {
     footer .pane{
         background-color: #1282A2;
         color: #FEFCFB;
-        height: 20vh;
+        height: 10vh;
         display:flex;
         flex-direction: row;
         align-content: center;
@@ -36,7 +36,7 @@ footer a {
     }
     
     .fab{
-        font-size: 1.1rem;
+        font-size: 1.7rem;
     }
     
     .footer-logo{

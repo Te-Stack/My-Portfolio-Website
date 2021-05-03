@@ -10,7 +10,7 @@ import Project from "./components/Project"
 import Home from './components/Home';
 import Navbar from './components/Navbar';
 
-
+ 
 function App() {
   return (
     <div>
@@ -18,9 +18,9 @@ function App() {
       <Navbar/>
       <Switch>
       <Route path='/' exact component = {Home} />
-      <Route path='/' exact component = {About} />
-      <Route path='/' exact component = {Project} />
-      <Route path='/' exact component = {Contact} />
+      <Route path='/about' exact component = {About} />
+      <Route path='/projects' exact component = {Project} />
+      <Route path='/contact' exact component = {Contact} />
       </Switch>
       </Router>
     </div>
