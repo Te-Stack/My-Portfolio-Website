@@ -1,7 +1,7 @@
 footer .pane{
     background-color: #1282A2;
     color: #FEFCFB;
-    height: 40vh;
+    height: 35vh;
     display:flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -9,7 +9,7 @@ footer .pane{
 }
 
 .fab{
-    font-size: 1.3rem;
+    font-size: 1.7rem;
 }
 
 .footer-logo{
@@ -50,7 +50,7 @@ footer .pane{
     footer .pane{
         background-color: #1282A2;
         color: #FEFCFB;
-        height: 50vh;
+        height: 35vh;
         display:flex;
         flex-direction: column;
         align-content: space-evenly;
@@ -58,15 +58,13 @@ footer .pane{
     }
     
     .fab{
-        font-size: 1.1rem;
+        font-size: 1.5rem;
     }
     
     .footer-logo{
         justify-self: start;
         cursor: pointer;
-        font-size: 1.5rem;
+        font-size: 1.6rem;
         font-family: 'Pacifico', cursive;
     }
-
-
 }
