@@ -6,7 +6,7 @@ class About extends Component {
     render() {
         return (
             <div className="About">
-                <div className="container">
+                <div className="container-fluid">
                     <div className="row">
                         <div className="col-sm-6 col-sm-6 col-xl-6">
                             <img className="img" src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1619389551/20200830_104248_emf6t0.jpg" alt="Quincy-Oghentejiri;s pics " loading="lazy"/>

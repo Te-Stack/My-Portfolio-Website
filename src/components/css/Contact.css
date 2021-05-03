@@ -40,7 +40,7 @@ textarea{
 }
 @media screen and (max-width:1024px){
     .Contact{
-        height: 50vh;
+        height: 40vh;
     }
     
     .contact-border{
@@ -57,15 +57,15 @@ textarea{
     input{
         background-color: #c4c4c4;
         border: none;
-        width: 18vw;
-        height: 5vh;
+        width: 22vw;
+        height: 3vh;
     }
     
     textarea{
         background-color: #c4c4c4;
         border: none;
-        width: 28vw;
-        height: 6vh;
+        width: 30vw;
+        height: 4vh;
     }
     
     .Think{
