@@ -21,6 +21,11 @@ input{
     height: 10vh;
 }
 
+.Contact a{
+    text-decoration: none;
+    color: #1282A2;
+}
+
 textarea{
     background-color: #c4c4c4;
     border: none;
