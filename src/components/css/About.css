@@ -9,8 +9,8 @@
 }
  
 .img{
-    width: 35vw;
-    height: 85vh;
+    width: 30vw;
+    height: 75vh;
 }
 
 .about-border{
@@ -58,7 +58,7 @@
     }
     
     .img{
-        width: 50vw;
+        width: 35vw;
         height: 40vh;
     }
     .desktop{
@@ -108,7 +108,7 @@
     }
     
     .img{
-        width: 95vw;
+        width: 55vw;
         height: 50vh;
     }
     .desktop{
