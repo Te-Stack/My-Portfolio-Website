@@ -3,6 +3,10 @@
     background-color: #FEFCFB;
     color: #312F2F;
 }
+
+.About p{
+    margin-right: 10rem;
+}
  
 .img{
     width: 35vw;
@@ -11,6 +15,7 @@
 
 .about-border{
     border-bottom: 1rem solid #1282A2;
+    width: 35vw;
 }
 
 .desktop{
@@ -39,16 +44,26 @@
 
 @media screen and (max-width:1024px){
     .About{
-        height: 60vh; 
+        height: 50vh; 
+        display: flex;
+        justify-content: space-between;
+    }
+    .About p{
+        margin-right: 2rem;
+    }
+    
+    .about-border{
+        border-bottom: 1rem solid #1282A2;
+        width: 35vw;
     }
     
     .img{
-        width: 45vw;
+        width: 50vw;
         height: 40vh;
     }
     .desktop{
         display: block;
-        width: 45vw;
+        width: 40vw;
         height: 30vh;
     
     }
@@ -79,12 +94,22 @@
 
 @media screen and (max-width:480px){
     .About{
-        height: 200vh;
+        height: 170vh;
+        display: flex;
+        justify-content: space-between;
+    }
+    .About p{
+        margin-right: 2rem;
+    }
+    
+    .about-border{
+        border-bottom: 1rem solid #1282A2;
+        width: 75vw;
     }
     
     .img{
-        width: 90vw;
-        height: 65vh;
+        width: 95vw;
+        height: 50vh;
     }
     .desktop{
         display: none;
