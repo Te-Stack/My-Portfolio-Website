@@ -11,7 +11,7 @@ class Project extends Component {
                             <h5>Balance Sheet App</h5>
                             <p>HTML + CSS + EXPRESS</p>
                             <p>
-                                Balance Sheet app that saves income and expenses which is connected to MongoDB database
+                                Balance Sheet app that saves income and expenses which is connected to MongoDB database.
                             </p>
                             <div className="Icon">
                                 <div>
@@ -41,7 +41,7 @@ class Project extends Component {
                             <h5>Overwood Website Redesign</h5>
                             <p>HTML + CSS</p>
                             <p>
-                                This is the redesign of <a href="https://www.overwood.com">Overwood official website</a>
+                                This is the redesign of <a href="https://www.overwood.com">Overwood official website.</a>
                             </p>
                             <div className="Icon">
                                 <div>
@@ -58,7 +58,7 @@ class Project extends Component {
                         <h5>Remita Sign-up page</h5>
                         <p>HTML + CSS + JAVASCRIPT</p>
                         <p>
-                            This is clone of the Remita Sign up page with validation done with vanilla javascript 
+                            This is clone of the Remita Sign up page with validation done with vanilla javascript.
                         </p>
                         <div className="Icon">
                                 <div>
