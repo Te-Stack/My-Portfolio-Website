@@ -62,7 +62,9 @@
         align-items: center;
         justify-content: center;
     }
-    
+    .home h4{
+        margin-left: 1rem;
+    }
     .btn{
         width: 42vw;
         height: 7vh;
