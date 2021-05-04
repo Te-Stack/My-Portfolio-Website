@@ -73,7 +73,7 @@ class Project extends Component {
                         <h5>A Bidding App</h5>
                         <p>HTML + CSS + JAVASCRIPT</p>
                         <p>
-                            This is an App that enable you bid commodity at your own price 
+                            This is an App that enable you bid commodity at your own price .
                         </p>
                         <div className="Icon">
                                 <div>
@@ -88,7 +88,7 @@ class Project extends Component {
                         <h5>Sign-Up API</h5>
                         <p>REACT EXPRESS</p>
                         <p>
-                            This is a Sign-Up Application Programming Interface that sign ups users and saves their data in the Mongodb(No Sql) database
+                            This is a Sign-Up Application Programming Interface that sign ups users and saves their data in the Mongodb(No Sql) database.
                         </p>
                         <div className="Icon">
                                 <div>
