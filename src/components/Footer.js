@@ -17,7 +17,7 @@ export default class Footer extends Component {
                             <a href="https://www.twitter.com/Quincyoghenex"><i className="fab fa-twitter mx-2"></i></a>
                         </div>
                         <div>
-                            <p> &copy; Copyright 2021, All right reserved</p>
+                            <p>&copy; Copyright 2021, All right reserved</p>
                         </div>
                     </div>
                 </footer>

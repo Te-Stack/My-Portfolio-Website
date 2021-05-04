@@ -6,7 +6,7 @@ class Project extends Component {
         return (
             <div className="Projects">
                 <h2 className="project-border">Projects</h2>
-                <div className="container1 ">
+                <div className="container1">
                         <div className="cards">
                             <h5>Balance Sheet App</h5>
                             <p>HTML + CSS + EXPRESS</p>
