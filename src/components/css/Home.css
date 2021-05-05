@@ -6,6 +6,9 @@
     align-items: center;
     justify-content: center;
 }
+.Home h1{
+    margin-left:0rem;
+}
 
 .btn{
     width: 20vw;
@@ -35,6 +38,9 @@
         justify-content: center;
     
     }
+    .Home h1{
+        margin-left: 0;
+    }
     
     .btn{
         width: 20vw;
@@ -62,8 +68,8 @@
         align-items: center;
         justify-content: center;
     }
-    .home h1{
-        margin-left: 1rem;
+    .Home h1{
+        margin-left: 1.5rem;
     }
     .btn{
         width: 42vw;
