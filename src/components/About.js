@@ -9,7 +9,7 @@ class About extends Component {
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-sm-6 col-md-6 col-xl-6">
-                            <img className="img" src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1598277819/brown_zuoatk.jpg" alt="Quincy-Oghentejiri;s pics " loading="lazy"/>
+                            <img className="img" src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1620207698/8D925034-A324-4DA4-BC0D-B138E89AF0C5L0001_ulquax.jpg" alt="Quincy-Oghentejiri;s pics " loading="lazy"/>
                             <button className="btn mt-1 mb-3 mx-0">Download CV</button>
                         </div>
                         <div className="col-sm-6 col-md-6 col-xl-6">
