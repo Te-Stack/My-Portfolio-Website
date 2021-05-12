@@ -5,6 +5,8 @@ import Contact from './Contact'
 import "./css/Home.css"
 import Footer from './Footer'
 import Project from './Project'
+// import TypeWriter from "./typewriter"
+// import {data} from "../mockdata"
 
 
 
