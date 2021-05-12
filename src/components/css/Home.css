@@ -1,6 +1,8 @@
 .Home{
     height: 70vh;
     background-color: #FEFCFB;
+}
+.Hom{  
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -8,6 +10,19 @@
 }
 .Home h1{
     margin-left:0rem;
+}
+
+
+.Ibtn{
+    display: block;
+    float: right;
+    justify-content: flex-end;
+    color: #1282A2;
+    width: 2vw;
+    height: 5vh;
+    border: none;
+    background-color: #FEFCFB;
+   font-size: 1.4rem;
 }
 
 .btn{
@@ -32,6 +47,9 @@
 @media screen and (max-width:1024px){
     .Home{
         height: 30vh;
+    }
+
+    .Hom{
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -63,6 +81,9 @@
 @media screen and (max-width:480px){
     .Home{
         height: 60vh;
+    }
+
+    .Hom{
         display: flex;
         flex-direction: column;
         align-items: center;

@@ -11,12 +11,17 @@ import Project from './Project'
 class Home extends Component {
     render() {
         return (
-            <div>
-                <div className="Home m-2">
-                   <h4><strong>Design. Build. Improve</strong></h4>
-                    <h1>I create beautiful website your users will love</h1>
-                     <a href="https://wa.me/+2349027499683"><button className="btn">Make it happen</button></a>
-              </div>
+            <div >
+                <div className="Home">
+                    <button className="Ibtn"><i className="far fa-sun"></i></button>
+                    <br/>
+                    <div className="Hom m-2 mt-5">
+                    <h4><strong>Design. Build. Improve. </strong></h4>
+                        <h1>I create beautiful website your users will love</h1>
+                        <a href="https://wa.me/+2349027499683"><button className="btn">Make it happen</button></a>
+                </div>
+                </div>
+                
 
 
                <About/>
