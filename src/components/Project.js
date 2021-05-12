@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import "./css/Project.css"
+import Footer from './Footer'
 
 class Project extends Component {
     render() {
@@ -103,6 +104,7 @@ class Project extends Component {
                 <div className="mid mt-5">
                     <a href="https://github.com/Te-Stack?tab=repositories" target="_blank" rel="noreferrer"><button className="btn">See More Projects </button></a>
                 </div>
+                <Footer/>
             </div>
         )
     }

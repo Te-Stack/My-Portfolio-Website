@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import "./css/Contact.css"
+import Footer from './Footer'
 
 class Contact extends Component {
     render() {
@@ -30,6 +31,7 @@ class Contact extends Component {
                         
                     </div>
                 </div>   
+                <Footer/>
             </div>
         )
     }

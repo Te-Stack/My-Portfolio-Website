@@ -1,5 +1,6 @@
 import React, { Component } from 'react'
 import "./css/About.css"
+import Footer from './Footer'
 
 
 class About extends Component {
@@ -24,6 +25,7 @@ class About extends Component {
                     </div>
 
                 </div>
+                <Footer/>
             </div>
         )
     }

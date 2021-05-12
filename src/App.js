@@ -9,15 +9,12 @@ import Contact from "./components/Contact"
 import Project from "./components/Project"
 import Home from './components/Home';
 import Navbar from './components/Navbar';
-import { ChakraProvider } from '@chakra-ui/react';
-import theme from './theme';
 
 
 
 
 function App() {
   return (
-    <ChakraProvider theme={theme}>
       <div>
         <Router>
         <Navbar/>
@@ -29,8 +26,6 @@ function App() {
         </Switch>
         </Router>
       </div>
-
-    </ChakraProvider>
   )
 }
 
