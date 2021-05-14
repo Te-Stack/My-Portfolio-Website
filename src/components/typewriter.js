@@ -8,7 +8,7 @@ const TypeWriter = ({ texts }) => (
       strings: texts,
       autoStart: true,
       loop: true,
-      deleteSpeed: 50,
+      deleteSpeed: 70,
       wrapperClassName: 'head_tags'
     }}
   />
