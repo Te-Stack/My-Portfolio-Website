@@ -1,4 +1,4 @@
-import React, {Component} from 'react'
+import React, {useState} from 'react'
 import "../index.css"
 import About from './About'
 import Contact from './Contact'
@@ -8,14 +8,18 @@ import Project from './Project'
 import TypeWriter from "./typewriter"
 import {data} from "../mockdata"
 
+ 
 
+function Home() {
+    const [theme,setTheme]= useState("light")
+    const themeToggler =()=>{
+        theme === "light"? setTheme("dark") : setTheme("light")
+    }
 
-class Home extends Component {
-    render() {
-        return (
+    return (
             <div >
                 <div className="Home">
-                    <button className="Ibtn"><i className="far fa-sun"></i></button>
+                    <button onClick={themeToggler()} className="Ibtn"><i className="far fa-sun"></i></button>
                     <br/>
                     <div className="Hom m-2 mt-5">
                     <h4><strong><TypeWriter texts={data} /> </strong></h4>
@@ -33,7 +37,6 @@ class Home extends Component {
 
             </div>
         )
-    }
 }
 
 
