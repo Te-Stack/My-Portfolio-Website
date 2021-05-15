@@ -1,8 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import "./css/Contact.css"
 
-class Contact extends Component {
-    render() {
+function Contact() {
         return (
             <div className="Contact">
                 <h2 className="contact-border">Contact Me</h2>
@@ -32,7 +31,6 @@ class Contact extends Component {
                 </div>   
             </div>
         )
-    }
 }
 
 export default Contact

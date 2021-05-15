@@ -19,7 +19,7 @@ function Home() {
     return (
             <div>
                 <div className="Home">
-                    <button onClick={themeToggler()} className="Ibtn"><i className="far fa-sun"></i></button>
+                    <button onClick={()=> themeToggler()} className="Ibtn"><i className="far fa-sun"></i></button>
                     <br/>
                     <div className="Hom m-2 mt-5">
                     <h4><strong><TypeWriter texts={data} /> </strong></h4>

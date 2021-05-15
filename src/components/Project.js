@@ -1,8 +1,7 @@
-import React, { Component } from 'react'
+import React from 'react'
 import "./css/Project.css"
 
-class Project extends Component {
-    render() {
+function Project() {
         return (
             <div className="Projects">
                 <h2 className="project-border">Projects</h2>
@@ -105,7 +104,6 @@ class Project extends Component {
                 </div>
             </div>
         )
-    }
 }
 
 export default Project

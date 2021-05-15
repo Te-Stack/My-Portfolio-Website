@@ -17,7 +17,6 @@ import {lightTheme,darkTheme} from "./themes";
 
 function App() {
   const {theme,setTheme} = useState("light")
-
   return (
     <ThemeProvider theme={theme === "light" ? lightTheme:darkTheme}>
       <div>
@@ -31,7 +30,6 @@ function App() {
         </Switch>
         </Router>
       </div>
-
     </ThemeProvider>
   )
 }
