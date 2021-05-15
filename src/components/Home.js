@@ -17,7 +17,7 @@ function Home() {
     }
 
     return (
-            <div >
+            <div>
                 <div className="Home">
                     <button onClick={themeToggler()} className="Ibtn"><i className="far fa-sun"></i></button>
                     <br/>
