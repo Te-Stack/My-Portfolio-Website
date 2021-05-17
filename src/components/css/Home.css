@@ -1,8 +1,6 @@
 .Home{
     height: 70vh;
     background-color: #FEFCFB;
-}
-.Hom{  
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -48,9 +46,6 @@
 @media screen and (max-width:1024px){
     .Home{
         height: 30vh;
-    }
-
-    .Hom{
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -94,9 +89,6 @@
 @media screen and (max-width:480px){
     .Home{
         height: 60vh;
-    }
-
-    .Hom{
         display: flex;
         flex-direction: column;
         align-items: center;

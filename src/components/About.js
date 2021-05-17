@@ -5,9 +5,9 @@ import "./css/About.css"
 function About() {
         return (
             <div className="About">
-                <div className="container">
+                <div className="container-fluid">
                     <div className="row">
-                        <div className="col-sm-6 col-md-6 col-xl-6">
+                        <div className="col-sm-6 col-md-6 col-xl-6 point1">
                             <img className="img" src="https://res.cloudinary.com/dha7gjz6y/image/upload/v1620207698/8D925034-A324-4DA4-BC0D-B138E89AF0C5L0001_ulquax.jpg" alt="Quincy-Oghentejiri;s pics " loading="lazy"/>
                             <button className="btn mt-1 mb-3 mx-0">Download CV</button>
                         </div>

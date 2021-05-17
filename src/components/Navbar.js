@@ -15,7 +15,7 @@ class Navbar extends Component {
 
     render() {
         return (
-            <nav className="NavbarItems">
+            <nav className="NavbarItems fixed-top">
             <Link to="/"><h1 className="navbar-logo">Quincy Oghenetejiri</h1></Link>
             <div className="menu-icon" onClick={this.handleClick}>
                 <i className={this.state.clicked ? "fas fa-times" : "fas fa-bars"}></i>
