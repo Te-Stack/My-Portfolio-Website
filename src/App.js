@@ -6,9 +6,10 @@ import {
 } from "react-router-dom";
 import About from './components/About';
 import Contact from "./components/Contact"
-import Project from "./components/Project"
+import Project from "./components/Project" 
 import Home from './components/Home';
 import Navbar from './components/Navbar';
+import 'animate.css/animate.css'
 
 
 

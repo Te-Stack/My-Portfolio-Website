@@ -6,7 +6,7 @@ function Project() {
             <div className="Projects">
                 <h2 className="project-border">Projects</h2>
                 <div className="container1">
-                        <div className="cards">
+                        <div className="cards animate__animated animate__zoomIn animate__delay-5s">
                             <div>
                                 <h5>Balance Sheet App</h5>
                                 <p>HTML + CSS + EXPRESS</p>
@@ -25,7 +25,7 @@ function Project() {
                                 </div>
                             </div>
                         </div>
-                        <div className="cards">
+                        <div className="cards animate__animated animate__zoomIn animate__delay-5s">
                             <div>
                                 <h5>Smoothie-E-Commerce Website</h5>
                                 <p>EJS + EXPRESS</p>
@@ -44,7 +44,7 @@ function Project() {
                                 </div>
                             </div>
                         </div>
-                        <div className="cards">
+                        <div className="cards animate__animated animate__zoomIn animate__delay-3s">
                             <div>
                                 <h5>Overwood Website Redesign</h5>
                                 <p>HTML + CSS</p>
@@ -65,7 +65,7 @@ function Project() {
                         </div>
                 </div>
                 <div className="container2">
-                    <div className=" cards">
+                    <div className=" cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>Remita Sign-up page</h5>
                             <p>HTML + CSS + JAVASCRIPT</p>
@@ -84,7 +84,7 @@ function Project() {
                                 </div>
                         </div>
                     </div>
-                    <div className=" cards">
+                    <div className=" cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>A Bidding App</h5>
                             <p>HTML + CSS + JAVASCRIPT</p>
@@ -103,7 +103,7 @@ function Project() {
                                 </div>
                         </div>
                     </div>
-                    <div className="cards">
+                    <div className="cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>Sign-Up API</h5>
                             <p>REACT EXPRESS</p>
@@ -124,7 +124,7 @@ function Project() {
                     </div>
                 </div>
                 <div className="container2">
-                    <div className=" cards">
+                    <div className=" cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>Merchant E-commerce App</h5>
                             <p>REACT + CSS + EXPRESS</p>
@@ -143,7 +143,7 @@ function Project() {
                                 </div>
                         </div>
                     </div>
-                    <div className=" cards">
+                    <div className=" cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>Texas em Poker Card</h5>
                             <p>Python</p>
@@ -162,7 +162,7 @@ function Project() {
                                 </div>
                         </div>
                     </div>
-                    <div className="cards">
+                    <div className="cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
                             <h5>Currency-Converter App</h5>
                             <p>HTML + CSS + JAVASCRIPT</p>
