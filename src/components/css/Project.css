@@ -17,6 +17,9 @@
 }
 
 .cards{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
     width: 25vw;
     height: 50vh;
     background-color:#FEFCFB;
@@ -96,7 +99,7 @@ h5{
     
     .cards{
         width: 27vw;
-        height: 22vh;
+        height:20vh;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
         box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
@@ -108,7 +111,7 @@ h5{
     }
     .cards:hover{
         width: 27vw;
-        height: 23vh;
+        height: 21vh;
         zoom: 105%;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
