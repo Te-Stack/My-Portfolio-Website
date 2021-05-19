@@ -145,7 +145,7 @@ h5{
         margin-left: 1rem;
     }
     .cards{ 
-        width: 90vw;
+        width: 85vw;
         margin-left: 1rem;
         height: 35vh;
         background-color:#FEFCFB;
@@ -158,9 +158,9 @@ h5{
         margin-bottom: 1rem;
     }
     .cards:hover{
-        width: 90vw;
+        width: 85vw;
         height: 35vh;
-        zoom: 105%;
+        zoom: 103%;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
         box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;

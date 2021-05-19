@@ -18,7 +18,7 @@ function Contact() {
                         <p className="reach"><a href="https://google.com"><i className="fas fa-phone-alt alt"></i>+2349027499683</a></p>
                         <p className="reach"><a href="https://google.com"><i className="fas fa-map-marker-alt alt"></i>Benin,Nigeria</a></p>
                     </div>
-                    <div className="col-sm-6 col-sm-6 col-xl-6 animate__animated animate__fadeInRight animate__delay-3s">
+                    <div className="col-sm-6 col-sm-6 col-xl-6 animate__animated animate__zoomIn animate__delay-3s">
                         <h6 className="send-border">Send me a message</h6>
                         <form onSubmit={handleSubmit}>
                             <input type="text" placeholder="Name" name="Name" className="text-center" />
