@@ -1,5 +1,6 @@
 .Home{
-    height: 70vh;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
     background-color: #FEFCFB;
     display: flex;
     flex-direction: column;
@@ -88,7 +89,8 @@
 
 @media screen and (max-width:480px){
     .Home{
-        height: 60vh;
+        padding-top: 2rem;
+        padding-bottom: 2rem; 
         display: flex;
         flex-direction: column;
         align-items: center;
