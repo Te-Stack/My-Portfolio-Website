@@ -1,5 +1,6 @@
 .About{
-    height: 110vh;
+    padding-top: 5rem;
+    padding-bottom: 5rem; 
     background-color: #FEFCFB;
     color: #312F2F;
     margin: 0 1rem 0 4rem;
@@ -47,7 +48,8 @@
 
 @media screen and (max-width:1024px){
     .About{
-        height: 50vh; 
+        padding-top: 5rem;
+        padding-bottom: 5rem; 
         display: flex;
         justify-content: space-between;
         margin: 0 0.5rem 0 2rem;
