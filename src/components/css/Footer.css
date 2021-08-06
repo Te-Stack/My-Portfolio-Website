@@ -1,7 +1,8 @@
 footer .pane{
     background-color: #1282A2;
     color: #FEFCFB;
-    height: 35vh;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
     display:flex;
     flex-direction: row;
     justify-content: space-evenly;
@@ -32,7 +33,8 @@ footer a:hover {
     footer .pane{
         background-color: #1282A2;
         color: #FEFCFB;
-        height: 10vh;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
         display:flex;
         flex-direction: row;
         align-content: center;
@@ -59,7 +61,8 @@ footer a:hover {
     footer .pane{
         background-color: #1282A2;
         color: #FEFCFB;
-        height: 35vh;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
         display:flex;
         flex-direction: column;
         align-content: space-evenly;
