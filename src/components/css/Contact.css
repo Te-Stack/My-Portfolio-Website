@@ -46,7 +46,8 @@ textarea{
 }
 @media screen and (max-width:1024px){
     .Contact{
-        height: 40vh;
+        padding-top: 5rem;
+    padding-bottom: 5rem;
     }
     
     .contact-border{
@@ -90,7 +91,8 @@ textarea{
 
 @media screen and (max-width:480px){
     .Contact{
-        height: 120vh;
+        padding-top: 5rem;
+        padding-bottom: 5rem;
     }
     
     .contact-border{
