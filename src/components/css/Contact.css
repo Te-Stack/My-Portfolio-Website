@@ -19,7 +19,7 @@ input{
     background-color: #c4c4c4;
     border: none;
     width: 18vw;
-    height: 10vh;
+    height: 65px;
 }
 
 .Contact a{
@@ -31,7 +31,7 @@ textarea{
     background-color: #c4c4c4;
     border: none;
     width: 27vw;
-    height: 11vh;
+    height: 75px;
 }
 
 .Think{
@@ -65,14 +65,14 @@ textarea{
         background-color: #c4c4c4;
         border: none;
         width: 22vw;
-        height: 3vh;
+        height: 30px;
     }
     
     textarea{
         background-color: #c4c4c4;
         border: none;
         width: 30vw;
-        height: 4vh;
+        height: 40px;
     }
     
     .Think{
@@ -110,7 +110,7 @@ textarea{
         background-color: #c4c4c4;
         border: none;
         width: 70vw;
-        height: 8vh;
+        height: 75px;
         margin-top: 0.8rem;
     }
     
@@ -118,7 +118,7 @@ textarea{
         background-color: #c4c4c4;
         border: none;
         width: 90vw;
-        height: 9vh;
+        height: 80px;
     }
     
     .Think{
