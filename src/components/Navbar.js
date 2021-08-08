@@ -3,6 +3,14 @@ import "../index.css"
 import "./css/Navbar.css"
 import {MenuItems} from "./MenuItems"
 import {Link} from "react-router-dom"
+import {
+    Link as ScrollLink,
+    Element,
+    Events,
+    animateScroll as scroll,
+    scrollSpy,
+    scroller,
+  } from "react-scroll"
  
 class Navbar extends Component {
     state ={
