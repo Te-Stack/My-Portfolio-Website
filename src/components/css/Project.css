@@ -139,9 +139,15 @@ h5{
     
 }
 @media screen and (max-width:830px) {
+    .project-border{
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 2rem;
+    }
+
+
     .cards{
         width: 230px;
-        height:320px;
+        height:325px;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
         box-shadow: 0 4px 8px 0 #1282A2, 0 6px 20px 0 #FEFCFB;
@@ -153,7 +159,7 @@ h5{
     }
     .cards:hover{
         width: 230px;
-        height: 320px;
+        height: 325px;
         zoom: 105%;
         background-color:#FEFCFB;
         border: 1px solid #1282A2;
