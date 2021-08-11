@@ -169,7 +169,7 @@ function Project() {
                         </div>
                         <div>
                             <p>
-                                This is a Sign-Up Application Programming Interface that sign ups users and saves their data in the Mongodb(No Sql) database.
+                                This is a Currency Converting app that convert different currency to your local currency
                             </p>
                         </div>
                         <div className="Icon">
