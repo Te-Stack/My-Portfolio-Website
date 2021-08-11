@@ -91,6 +91,11 @@ textarea{
     .alt{
         color: #1282A2;
     }
+
+    .move{
+        margin-left: 1.5rem;
+        margin-right: 1rem;
+    }
     
 }
 
@@ -109,6 +114,12 @@ textarea{
         width: 22vw;
         border-bottom: 0.7rem solid #1282A2;
     }
+
+    .move{
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+   
     
     
 }
@@ -152,6 +163,10 @@ textarea{
     }
     .reach{
         font-size: 1.1rem;
+    }
+    .move{
+        margin-left: 0;
+        margin-right: 0;
     }
     
 }
