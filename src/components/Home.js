@@ -7,6 +7,7 @@ import Footer from './Footer'
 import Project from './Project'
 import TypeWriter from "./typewriter"
 import {data} from "../mockdata"
+import { Element } from "react-scroll"
 
  
 
