@@ -27,7 +27,7 @@ function Project() {
                         </div>
                         <div className="cards animate__animated animate__zoomIn animate__delay-5s">
                             <div>
-                                <h5>Smoothie-E-Commerce Website</h5>
+                                <h5>E-Commerce Website</h5>
                                 <p>EJS + EXPRESS</p>
                             </div>
                             <div>
