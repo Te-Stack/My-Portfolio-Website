@@ -126,7 +126,7 @@ function Project() {
                 <div className="container2">
                     <div className=" cards animate__animated animate__zoomIn animate__delay-5s">
                         <div>
-                            <h5>Merchant E-commerce App</h5>
+                            <h5>Merchant App</h5>
                             <p>REACT + CSS + EXPRESS</p>
                         </div>
                         <div>
