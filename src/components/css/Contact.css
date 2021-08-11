@@ -88,6 +88,25 @@ textarea{
     
 }
 
+@media screen and (max-width:830px) {
+    .contact-border{
+        width: 22vw;
+        border-bottom:0.8rem solid #1282A2;
+        margin-left: 1rem;
+    }
+    .Think{
+        font-size: 1.5rem;
+        margin-left: 1rem;
+    }
+     
+    .send-border{
+        width: 22vw;
+        border-bottom: 0.7rem solid #1282A2;
+    }
+    
+    
+}
+
 
 @media screen and (max-width:480px){
     .Contact{
