@@ -32,9 +32,16 @@ class Navbar extends Component {
                 {MenuItems.map((items,index)=>{
                     return (
                         <li key={index}>
-                            <Link className={items.cName} to={items.url}>
+                            <ScrollLink
+                             className={items.cName}
+                              to={items.url}
+                              spy={true}
+                              smooth={true}
+                              offset={50}
+                            duration={500}  
+                              >
                                 {items.title}
-                            </Link>
+                            </ScrollLink>
                         </li>
                     )
                 })}
